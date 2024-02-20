@@ -9,7 +9,7 @@ menu_icon.addEventListener("click",function(){
 });
 
 side_bar_close.addEventListener("click",function(){
-    side_bar.style.marginLeft="-60%";
+    side_bar.style.marginLeft="-80%";
 });
 
 offer_close.addEventListener("click",function(){
